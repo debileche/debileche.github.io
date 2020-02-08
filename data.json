@@ -1,1 +1,709 @@
-{"resources":[{"x":37.4785259,"y":126.6663152,"desc":"인천의료원\n중국 (여, 35)","title":"1차 확진자","date":"2020-01-20"},{"x":37.5672412,"y":127.0034702,"desc":"국립중앙의료원\n한국 (남, 55)","title":"2차 확진자","date":"2020-01-24"},{"x":37.642134,"y":126.829043,"desc":"명지병원\n한국 (남, 54)","title":"3차 확진자","date":"2020-01-26"},{"x":37.3513283,"y":127.1212433,"desc":"분당서울대병원\n한국 (남, 55)","title":"4차 확진자","date":"2020-01-27"},{"x":37.6127767,"y":127.0959779,"desc":"서울의료원\n한국 (남, 33)","title":"5차 확진자","date":"2020-01-30"},{"x":37.5796971,"y":126.9978757,"desc":"서울대병원\n한국 (남, 55)","title":"6차 확진자","date":"2020-01-30"},{"x":37.6127767,"y":127.0959779,"desc":"서울대병원\n한국 (남, 28)","title":"7차 확진자","date":"2020-01-31"},{"x":35.9644726,"y":126.9585973,"desc":"원광대병원(익산)\n한국 (여, 62)","title":"8차 확진자","date":"2020-01-31"},{"x":37.6127767,"y":127.0959779,"desc":"서울의료원\n한국 (여, 28)","title":"9차 확진자","date":"2020-01-31"},{"x":37.6127767,"y":127.0959779,"desc":"서울대병원\n한국 (여, 54)","title":"10차 확진자","date":"2020-01-31"},{"x":37.6127767,"y":127.0959779,"desc":"서울대병원\n한국 (남, 25)","title":"11차 확진자","date":"2020-01-31"},{"x":37.3513283,"y":127.1212433,"desc":"분당서울대병원\n중국 (남, 48)","title":"12차 확진자","date":"2020-02-01"},{"x":37.5672412,"y":127.0034702,"desc":"국립중앙의료원\n한국 (남, 28)","title":"13차 확진자","date":"2020-02-02"},{"x":37.3513283,"y":127.1212433,"desc":"분당서울대병원\n중국 (여, 40)","title":"14차 확진자","date":"2020-02-02"},{"x":37.3927602,"y":127.1468993,"desc":"국군수도병원\n한국 (남, 43)","title":"15차 확진자","date":"2020-02-02"},{"x":35.1419021,"y":126.9212725,"desc":"전남대병원\n한국 (여, 42)","title":"16차 확진자","date":"2020-02-04"},{"x":37.6420921,"y":126.8287463,"desc":"명지병원(경기)\n한국 (남, 38)","title":"17차 확진자","date":"2020-02-05"},{"x":35.1419021,"y":126.9212725,"desc":"전남대병원\n한국 (여, 21)","title":"18차 확진자","date":"2020-02-05"},{"x":37.6127767,"y":127.0959779,"desc":"서울의료원\n한국 (남, 36)","title":"19차 확진자","date":"2020-02-05"},{"x":37.3927602,"y":127.1468993,"desc":"국군수도병원\n한국 (여, 41)","title":"20차 확진자","date":"2020-02-05"},{"x":37.5796971,"y":126.9978757,"desc":"서울대병원\n한국 (여, 59)","title":"21차 확진자","date":"2020-02-05"},{"x":35.1386091,"y":126.9244892,"desc":"조선대병원\n한국 (남, 46)","title":"22차 확진자","date":"2020-02-06"},{"x":35.1386091,"y":126.9244892,"desc":"조선대병원\n중국 (여, 58)","title":"23차 확진자","date":"2020-02-06"}],"dashboard":{"domestic":{"confirmation":10,"discharge":1,"suspicion":169,"dead":0},"totalinfo":{"confirmation":31422,"nation":28,"dead":638},"overseas":[{"name":"한국","number":24,"dead":0},{"name":"중국","number":28018,"dead":563},{"name":"홍콩","number":21,"dead":1},{"name":"대만","number":11,"dead":0},{"name":"마카오","number":10,"dead":0},{"name":"태국","number":25,"dead":0},{"name":"싱가포르","number":26,"dead":0},{"name":"일본","number":31,"dead":0},{"name":"베트남","number":10,"dead":0},{"name":"네팔","number":1,"dead":0},{"name":"말레이시아","number":10,"dead":0},{"name":"캄보디아","number":1,"dead":0},{"name":"스리랑카","number":1,"dead":0},{"name":"아랍에미리트","number":5,"dead":0},{"name":"인도","number":3,"dead":0},{"name":"필리핀","number":3,"dead":1},{"name":"미국","number":11,"dead":0},{"name":"캐나다","number":5,"dead":0},{"name":"프랑스","number":6,"dead":0},{"name":"독일","number":10,"dead":0},{"name":"핀란드","number":1,"dead":0},{"name":"이탈리아","number":2,"dead":0},{"name":"영국","number":2,"dead":0},{"name":"러시아","number":2,"dead":0},{"name":"스웨덴","number":1,"dead":0},{"name":"스페인","number":1,"dead":0},{"name":"호주","number":13,"dead":0}]},"news":[{"name":"신종코로나바이러스감염증 국내 발생 현황","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352769&contSeq=352769&board_id=","manager":"중앙방역대책본부","date":"2020-02-07 17:07"},{"name":"신종코로나바이러스 감염증 국내 발생 현황 (2월 7일)","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352762&contSeq=352762&board_id=","manager":"중앙방역대책본부","date":"2020-02-07 14:15"},{"name":"신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352757&contSeq=352757&board_id=","manager":"신종코로나바이러스감염증중앙사고수습본부","date":"2020-02-07 11:14"},{"name":"신종코로나바이러스감염증 국내 발생 현황","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352754&contSeq=352754&board_id=","manager":"위기대응생물테러총괄과","date":"2020-02-07 10:02"},{"name":"신종코로나바이러스감염증 사례정의 및 검사기관 확대","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352735&contSeq=352735&board_id=","manager":"중앙방역대책본부","date":"2020-02-06 13:55"},{"name":"[2월 6일, 국민일보] 선별진료소 보도 관련","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352734&contSeq=352734&board_id=","manager":"신종코로나바이러스감염증중앙사고수습본부","date":"2020-02-06 13:39"},{"name":"인천공항검역소, 유증상자 대상 4단계 고강도 검역체계 가동 중","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352733&contSeq=352733&board_id=","manager":"검역1과","date":"2020-02-06 13:34"},{"name":"신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352728&contSeq=352728&board_id=","manager":"신종코로나바이러스감염증중앙사고수습본부","date":"2020-02-06 11:09"},{"name":"신종 코로나바이러스 국내 발생 현황 (2월 6일, 8시 기준)","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352723&contSeq=352723&board_id=","manager":"중앙방역대책본부","date":"2020-02-06 8:16"},{"name":"[2월 5일, 중앙일보] 입국관리앱 보도 관련","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352721&contSeq=352721&board_id=","manager":"중앙사고수습본부 방역총괄반","date":"2020-02-05 20:09"},{"name":"신종 코로나바이러스 국내 발생 현황 (2월 5일, 19시 기준)","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352720&contSeq=352720&board_id=","manager":"중앙방역대책본부","date":"2020-02-05 19:38"},{"name":"국립보건연구원, 신종 코로나바이러스 치료제 및 백신개발 연구 착수한다","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352709&contSeq=352709&board_id=","manager":"신종감염병·매개체연구과","date":"2020-02-05 14:18"},{"name":"신종 코로나바이러스 감염증 국내 발생 현황 (2월 5일, 2보)","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352708&contSeq=352708&board_id=","manager":"중앙방역대책본부","date":"2020-02-05 14:03"},{"name":"질병관리본부, 신종 코로나바이러스 분리성공 유전정보 공개","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352704&contSeq=352704&board_id=","manager":"중앙방역대책본부","date":"2020-02-05 11:30"},{"name":"신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352702&contSeq=352702&board_id=","manager":"신종코로나바이러스감염증중앙사고수습본부","date":"2020-02-05 11:16"},{"name":"신종 코로나바이러스 국내 발생 현황 (2월 5일, 9시 기준 1보)","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352697&contSeq=352697&board_id=","manager":"중앙방역대책본부","date":"2020-02-05 9:28"},{"name":"신종 코로나바이러스 감염증 국내 발생 현황 (2월 4일 14시, 2보)","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352684&contSeq=352684&board_id=","manager":"중앙방역대책본부","date":"2020-02-04 14:07"},{"name":"신종 코로나바이러스 진단시약 긴급사용 승인, 의료기관까지 검사 확대","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352683&contSeq=352683&board_id=","manager":"중앙방역대책본부","date":"2020-02-04 14:01"},{"name":"신종 코로나바이러스 국내 발생 현황 (2월 4일, 10시 기준 1보)","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352681&contSeq=352681&board_id=","manager":"중앙방역대책본부","date":"2020-02-04 11:20"},{"name":"신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352680&contSeq=352680&board_id=","manager":"신종코로나바이러스감염증중앙사고수습본부","date":"2020-02-04 11:05"},{"name":"신종 코로나바이러스 감염증 대응지침 일부 변경","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352662&contSeq=352662&board_id=","manager":"중앙방역대책본부","date":"2020-02-03 14:06"},{"name":"신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352656&contSeq=352656&board_id=","manager":"신종코로나바이러스감염증중앙사고수습본부","date":"2020-02-03 11:16"},{"name":"[2월2일, MBC 등] 확진자 이용 목욕탕 영업허용 논란 보도 관련","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352650&contSeq=352650&board_id=","manager":"위기소통담당관","date":"2020-02-02 23:26"},{"name":"신종 코로나바이러스감염증 대응 총리 주재 회의","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352649&contSeq=352649&board_id=","manager":"신종코로나바이러스감염증중앙사고수습본부","date":"2020-02-02 19:45"},{"name":"신종 코로나바이러스 국내 발생 현황","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352645&contSeq=352645&board_id=","manager":"중앙방역대책본부","date":"2020-02-02 11:35"},{"name":"신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352643&contSeq=352643&board_id=","manager":"신종코로나바이러스감염증중앙사고수습본부","date":"2020-02-02 11:04"},{"name":"신종 코로나바이러스 국내 발생 현황","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352642&contSeq=352642&board_id=","manager":"중앙방역대책본부","date":"2020-02-02 10:10"},{"name":"[1월 31일, 한국경제] 마스크 지원 보도 관련","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352635&contSeq=352635&board_id=","manager":"신종코로나바이러스감염증중앙사고수습본부","date":"2020-02-01 15:37"},{"name":"신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352633&contSeq=352633&board_id=","manager":"신종코로나바이러스감염증중앙사고수습본부","date":"2020-02-01 11:04"},{"name":"신종 코로나바이러스 국내 발생 현황 안내","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352632&contSeq=352632&board_id=","manager":"중앙방역대책본부","date":"2020-02-01 10:20"},{"name":"중앙사고수습본부, 신종 코로나바이러스감염증 확진자의 확인되지 않은 개인정보 확산 사건 수사 의뢰","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352619&contSeq=352619&board_id=","manager":"신종코로나바이러스감염증중앙사고수습본부","date":"2020-01-31 18:50"},{"name":"신종 코로나바이러스 국내 발생 현황 안내","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352609&contSeq=352609&board_id=","manager":"중앙방역대책본부","date":"2020-01-31 15:08"},{"name":"[1월 31일, TV조선] 감염병 R&D 예산 보도 관련","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352601&contSeq=352601&board_id=","manager":"보건의료기술개발과","date":"2020-01-31 12:20"},{"name":"신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352595&contSeq=352595&board_id=","manager":"신종코로나바이러스감염증중앙사고수습본부","date":"2020-01-31 11:01"},{"name":"“신종 코로나바이러스(2019-nCoV) 대응 실험실 생물안전 잠정 기준(Interim Guide)”안내","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352590&contSeq=352590&board_id=","manager":"생물안전평가과","date":"2020-01-31 10:05"},{"name":"신종 코로나바이러스 국내 발생 현황 안내","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352589&contSeq=352589&board_id=","manager":"중앙방역대책본부","date":"2020-01-31 10:04"},{"name":"신종 코로나바이러스 추가 환자 2명 확인","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352575&contSeq=352575&board_id=","manager":"중앙방역대책본부","date":"2020-01-30 17:58"},{"name":"신종 코로나바이러스 국내 발생 현황 안내","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352572&contSeq=352572&board_id=","manager":"중앙방역대책본부","date":"2020-01-30 17:16"},{"name":"민·관 협력으로 신종 코로나바이러스 진단이 빨라진다","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352571&contSeq=352571&board_id=","manager":"감염병진단관리과","date":"2020-01-30 17:13"},{"name":"[1월30일, 조선일보] 1339상담사 추가 모집 관련","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352570&contSeq=352570&board_id=","manager":"위기소통담당관","date":"2020-01-30 17:09"},{"name":"[1월 30일, 조선일보] 선별진료소 보도 관련","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352564&contSeq=352564&board_id=","manager":"신종코로나바이러스감염증중앙사고수습본부","date":"2020-01-30 13:07"},{"name":"신종 코로나바이러스감염증 확산 방지, 범부처가 총력 대응","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352563&contSeq=352563&board_id=","manager":"질병정책과","date":"2020-01-30 12:31"},{"name":"제3차 신종 코로나 바이러스 중앙사고수습본부 관계부처 회의","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352549&contSeq=352549&board_id=","manager":"신종코로나바이러스감염증중앙사고수습본부","date":"2020-01-29 16:39"},{"name":"보건복지부-보건의약단체 신종 코로나바이러스감염증 대응 협의체 구성","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352544&contSeq=352544&board_id=","manager":"보건의료정책과","date":"2020-01-29 14:12"},{"name":"1339(질병관리본부 상담센터) 응대 지연 해소에 총력","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352543&contSeq=352543&board_id=","manager":"기획조정담당관","date":"2020-01-29 13:41"},{"name":"[1월28일, 중앙일보] 감염 우려자 경보시스템 보도 관련","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352536&contSeq=352536&board_id=","manager":"약무정책과","date":"2020-01-28 16:24"},{"name":"지역사회 확산 방지 위해 총력 대응","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352535&contSeq=352535&board_id=","manager":"중앙방역대책본부","date":"2020-01-28 15:53"},{"name":"신종 코로나바이러스감염증 대비 어린이집 등 대응요령 배포","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352534&contSeq=352534&board_id=","manager":"보육기반과","date":"2020-01-28 15:16"},{"name":"중앙사고수습본부, 선별진료소 운영 의료기관 288개소 공개","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352533&contSeq=352533&board_id=","manager":"신종코로나바이러스감염증중앙사고수습본부","date":"2020-01-28 15:14"},{"name":"보건복지부, 감염병 위기경보 단계“주의→경계”격상","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352517&contSeq=352517&board_id=","manager":"질병정책과","date":"2020-01-27 15:19"},{"name":"신종 코로나바이러스 국내 발생 현황","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352516&contSeq=352516&board_id=","manager":"중앙방역대책본부","date":"2020-01-27 12:02"},{"name":"중국 전역 검역 오염지역으로 지정 신종 코로나바이러스 감염병 사례정의 확대 및 감시 강화","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352513&contSeq=352513&board_id=","manager":"중앙방역대책본부","date":"2020-01-26 17:45"},{"name":"신종 코로나바이러스 국내 세 번째 환자 확인","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352511&contSeq=352511&board_id=","manager":"중앙방역대책본부","date":"2020-01-26 13:26"},{"name":"신종 코로나바이러스 감염증 국내 2번째 확진 환자 중간경과 발표","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352507&contSeq=352507&board_id=","manager":"중앙방역대책본부","date":"2020-01-24 18:29"},{"name":"신종 코로나바이러스 국내 두 번째 환자 확인","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352506&contSeq=352506&board_id=","manager":"중앙방역대책본부","date":"2020-01-24 16:20"},{"name":"박능후 장관, 신종 코로나바이러스 감염증 대응현장 점검 (1.23)","url":"http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352496&contSeq=352496&board_id=","manager":"질병정책과","date":"2020-01-23 11:30"}]}
+{
+  "resources": [
+    {
+      "x": 37.4785259,
+      "y": 126.6663152,
+      "desc": "인천의료원\n중국 (여, 35)",
+      "title": "1차 확진자",
+      "date": "2020-01-20"
+    },
+    {
+      "x": 37.5672412,
+      "y": 127.0034702,
+      "desc": "국립중앙의료원\n한국 (남, 55)",
+      "title": "2차 확진자",
+      "date": "2020-01-24"
+    },
+    {
+      "x": 37.642134,
+      "y": 126.829043,
+      "desc": "명지병원\n한국 (남, 54)",
+      "title": "3차 확진자",
+      "date": "2020-01-26"
+    },
+    {
+      "x": 37.3513283,
+      "y": 127.1212433,
+      "desc": "분당서울대병원\n한국 (남, 55)",
+      "title": "4차 확진자",
+      "date": "2020-01-27"
+    },
+    {
+      "x": 37.6127767,
+      "y": 127.0959779,
+      "desc": "서울의료원\n한국 (남, 33)",
+      "title": "5차 확진자",
+      "date": "2020-01-30"
+    },
+    {
+      "x": 37.5796971,
+      "y": 126.9978757,
+      "desc": "서울대병원\n한국 (남, 55)",
+      "title": "6차 확진자",
+      "date": "2020-01-30"
+    },
+    {
+      "x": 37.6127767,
+      "y": 127.0959779,
+      "desc": "서울대병원\n한국 (남, 28)",
+      "title": "7차 확진자",
+      "date": "2020-01-31"
+    },
+    {
+      "x": 35.9644726,
+      "y": 126.9585973,
+      "desc": "원광대병원(익산)\n한국 (여, 62)",
+      "title": "8차 확진자",
+      "date": "2020-01-31"
+    },
+    {
+      "x": 37.6127767,
+      "y": 127.0959779,
+      "desc": "서울의료원\n한국 (여, 28)",
+      "title": "9차 확진자",
+      "date": "2020-01-31"
+    },
+    {
+      "x": 37.6127767,
+      "y": 127.0959779,
+      "desc": "서울대병원\n한국 (여, 54)",
+      "title": "10차 확진자",
+      "date": "2020-01-31"
+    },
+    {
+      "x": 37.6127767,
+      "y": 127.0959779,
+      "desc": "서울대병원\n한국 (남, 25)",
+      "title": "11차 확진자",
+      "date": "2020-01-31"
+    },
+    {
+      "x": 37.3513283,
+      "y": 127.1212433,
+      "desc": "분당서울대병원\n중국 (남, 48)",
+      "title": "12차 확진자",
+      "date": "2020-02-01"
+    },
+    {
+      "x": 37.5672412,
+      "y": 127.0034702,
+      "desc": "국립중앙의료원\n한국 (남, 28)",
+      "title": "13차 확진자",
+      "date": "2020-02-02"
+    },
+    {
+      "x": 37.3513283,
+      "y": 127.1212433,
+      "desc": "분당서울대병원\n중국 (여, 40)",
+      "title": "14차 확진자",
+      "date": "2020-02-02"
+    },
+    {
+      "x": 37.3927602,
+      "y": 127.1468993,
+      "desc": "국군수도병원\n한국 (남, 43)",
+      "title": "15차 확진자",
+      "date": "2020-02-02"
+    },
+    {
+      "x": 35.1419021,
+      "y": 126.9212725,
+      "desc": "전남대병원\n한국 (여, 42)",
+      "title": "16차 확진자",
+      "date": "2020-02-04"
+    },
+    {
+      "x": 37.6420921,
+      "y": 126.8287463,
+      "desc": "명지병원(경기)\n한국 (남, 38)",
+      "title": "17차 확진자",
+      "date": "2020-02-05"
+    },
+    {
+      "x": 35.1419021,
+      "y": 126.9212725,
+      "desc": "전남대병원\n한국 (여, 21)",
+      "title": "18차 확진자",
+      "date": "2020-02-05"
+    },
+    {
+      "x": 37.6127767,
+      "y": 127.0959779,
+      "desc": "서울의료원\n한국 (남, 36)",
+      "title": "19차 확진자",
+      "date": "2020-02-05"
+    },
+    {
+      "x": 37.3927602,
+      "y": 127.1468993,
+      "desc": "국군수도병원\n한국 (여, 41)",
+      "title": "20차 확진자",
+      "date": "2020-02-05"
+    },
+    {
+      "x": 37.5796971,
+      "y": 126.9978757,
+      "desc": "서울대병원\n한국 (여, 59)",
+      "title": "21차 확진자",
+      "date": "2020-02-05"
+    },
+    {
+      "x": 35.1386091,
+      "y": 126.9244892,
+      "desc": "조선대병원\n한국 (남, 46)",
+      "title": "22차 확진자",
+      "date": "2020-02-06"
+    },
+    {
+      "x": 35.1386091,
+      "y": 126.9244892,
+      "desc": "조선대병원\n중국 (여, 58)",
+      "title": "23차 확진자",
+      "date": "2020-02-06"
+    }
+  ],
+  "paths": [
+    {
+      "paths": [
+        {
+          "x": 37.4595891,
+          "y": 126.4384265,
+          "desc": "인천공항",
+          "date": "2020-01-19"
+        }
+      ]
+    },
+    {
+      "paths": [
+        {
+          "x": 37.5588642,
+          "y": 126.8006723,
+          "desc": "김포공항",
+          "date": "2020-02-22"
+        }
+      ]
+    },
+    {
+      "paths": [
+        {
+          "x": 37.5245342,
+          "y": 127.0276076,
+          "desc": "글로비 성형외과",
+          "date": "2020-02-22"
+        },
+        {
+          "x": 37.5029057,
+          "y": 127.0483179,
+          "desc": "호텔뉴브",
+          "date": "2020-02-22"
+        },
+        {
+          "x": 37.5244106,
+          "y": 127.0147465,
+          "desc": "GS 한강잠원 1호점",
+          "date": "2020-02-23"
+        },
+        {
+          "x": 37.5245342,
+          "y": 127.0276076,
+          "desc": "글로비 성형외과",
+          "date": "2020-02-24"
+        },
+        {
+          "x": 37.6820712,
+          "y": 126.7672435,
+          "desc": "일산 소재 음식점·카페",
+          "date": "2020-02-24"
+        }
+      ]
+    }
+  ],
+  "dashboard": {
+    "domestic": {
+      "confirmation": 10,
+      "discharge": 1,
+      "suspicion": 169,
+      "dead": 0
+    },
+    "totalinfo": {
+      "confirmation": 31422,
+      "nation": 28,
+      "dead": 638
+    },
+    "overseas": [
+      {
+        "name": "한국",
+        "number": 24,
+        "dead": 0
+      },
+      {
+        "name": "중국",
+        "number": 28018,
+        "dead": 563
+      },
+      {
+        "name": "홍콩",
+        "number": 21,
+        "dead": 1
+      },
+      {
+        "name": "대만",
+        "number": 11,
+        "dead": 0
+      },
+      {
+        "name": "마카오",
+        "number": 10,
+        "dead": 0
+      },
+      {
+        "name": "태국",
+        "number": 25,
+        "dead": 0
+      },
+      {
+        "name": "싱가포르",
+        "number": 26,
+        "dead": 0
+      },
+      {
+        "name": "일본",
+        "number": 31,
+        "dead": 0
+      },
+      {
+        "name": "베트남",
+        "number": 10,
+        "dead": 0
+      },
+      {
+        "name": "네팔",
+        "number": 1,
+        "dead": 0
+      },
+      {
+        "name": "말레이시아",
+        "number": 10,
+        "dead": 0
+      },
+      {
+        "name": "캄보디아",
+        "number": 1,
+        "dead": 0
+      },
+      {
+        "name": "스리랑카",
+        "number": 1,
+        "dead": 0
+      },
+      {
+        "name": "아랍에미리트",
+        "number": 5,
+        "dead": 0
+      },
+      {
+        "name": "인도",
+        "number": 3,
+        "dead": 0
+      },
+      {
+        "name": "필리핀",
+        "number": 3,
+        "dead": 1
+      },
+      {
+        "name": "미국",
+        "number": 11,
+        "dead": 0
+      },
+      {
+        "name": "캐나다",
+        "number": 5,
+        "dead": 0
+      },
+      {
+        "name": "프랑스",
+        "number": 6,
+        "dead": 0
+      },
+      {
+        "name": "독일",
+        "number": 10,
+        "dead": 0
+      },
+      {
+        "name": "핀란드",
+        "number": 1,
+        "dead": 0
+      },
+      {
+        "name": "이탈리아",
+        "number": 2,
+        "dead": 0
+      },
+      {
+        "name": "영국",
+        "number": 2,
+        "dead": 0
+      },
+      {
+        "name": "러시아",
+        "number": 2,
+        "dead": 0
+      },
+      {
+        "name": "스웨덴",
+        "number": 1,
+        "dead": 0
+      },
+      {
+        "name": "스페인",
+        "number": 1,
+        "dead": 0
+      },
+      {
+        "name": "호주",
+        "number": 13,
+        "dead": 0
+      }
+    ]
+  },
+  "news": [
+    {
+      "name": "신종코로나바이러스감염증 국내 발생 현황",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352769&contSeq=352769&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-07 17:07"
+    },
+    {
+      "name": "신종코로나바이러스 감염증 국내 발생 현황 (2월 7일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352762&contSeq=352762&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-07 14:15"
+    },
+    {
+      "name": "신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352757&contSeq=352757&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-02-07 11:14"
+    },
+    {
+      "name": "신종코로나바이러스감염증 국내 발생 현황",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352754&contSeq=352754&board_id=",
+      "manager": "위기대응생물테러총괄과",
+      "date": "2020-02-07 10:02"
+    },
+    {
+      "name": "신종코로나바이러스감염증 사례정의 및 검사기관 확대",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352735&contSeq=352735&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-06 13:55"
+    },
+    {
+      "name": "[2월 6일, 국민일보] 선별진료소 보도 관련",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352734&contSeq=352734&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-02-06 13:39"
+    },
+    {
+      "name": "인천공항검역소, 유증상자 대상 4단계 고강도 검역체계 가동 중",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352733&contSeq=352733&board_id=",
+      "manager": "검역1과",
+      "date": "2020-02-06 13:34"
+    },
+    {
+      "name": "신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352728&contSeq=352728&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-02-06 11:09"
+    },
+    {
+      "name": "신종 코로나바이러스 국내 발생 현황 (2월 6일, 8시 기준)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352723&contSeq=352723&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-06 8:16"
+    },
+    {
+      "name": "[2월 5일, 중앙일보] 입국관리앱 보도 관련",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352721&contSeq=352721&board_id=",
+      "manager": "중앙사고수습본부 방역총괄반",
+      "date": "2020-02-05 20:09"
+    },
+    {
+      "name": "신종 코로나바이러스 국내 발생 현황 (2월 5일, 19시 기준)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352720&contSeq=352720&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-05 19:38"
+    },
+    {
+      "name": "국립보건연구원, 신종 코로나바이러스 치료제 및 백신개발 연구 착수한다",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352709&contSeq=352709&board_id=",
+      "manager": "신종감염병·매개체연구과",
+      "date": "2020-02-05 14:18"
+    },
+    {
+      "name": "신종 코로나바이러스 감염증 국내 발생 현황 (2월 5일, 2보)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352708&contSeq=352708&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-05 14:03"
+    },
+    {
+      "name": "질병관리본부, 신종 코로나바이러스 분리성공 유전정보 공개",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352704&contSeq=352704&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-05 11:30"
+    },
+    {
+      "name": "신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352702&contSeq=352702&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-02-05 11:16"
+    },
+    {
+      "name": "신종 코로나바이러스 국내 발생 현황 (2월 5일, 9시 기준 1보)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352697&contSeq=352697&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-05 9:28"
+    },
+    {
+      "name": "신종 코로나바이러스 감염증 국내 발생 현황 (2월 4일 14시, 2보)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352684&contSeq=352684&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-04 14:07"
+    },
+    {
+      "name": "신종 코로나바이러스 진단시약 긴급사용 승인, 의료기관까지 검사 확대",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352683&contSeq=352683&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-04 14:01"
+    },
+    {
+      "name": "신종 코로나바이러스 국내 발생 현황 (2월 4일, 10시 기준 1보)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352681&contSeq=352681&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-04 11:20"
+    },
+    {
+      "name": "신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352680&contSeq=352680&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-02-04 11:05"
+    },
+    {
+      "name": "신종 코로나바이러스 감염증 대응지침 일부 변경",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352662&contSeq=352662&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-03 14:06"
+    },
+    {
+      "name": "신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352656&contSeq=352656&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-02-03 11:16"
+    },
+    {
+      "name": "[2월2일, MBC 등] 확진자 이용 목욕탕 영업허용 논란 보도 관련",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352650&contSeq=352650&board_id=",
+      "manager": "위기소통담당관",
+      "date": "2020-02-02 23:26"
+    },
+    {
+      "name": "신종 코로나바이러스감염증 대응 총리 주재 회의",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352649&contSeq=352649&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-02-02 19:45"
+    },
+    {
+      "name": "신종 코로나바이러스 국내 발생 현황",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352645&contSeq=352645&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-02 11:35"
+    },
+    {
+      "name": "신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352643&contSeq=352643&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-02-02 11:04"
+    },
+    {
+      "name": "신종 코로나바이러스 국내 발생 현황",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352642&contSeq=352642&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-02 10:10"
+    },
+    {
+      "name": "[1월 31일, 한국경제] 마스크 지원 보도 관련",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352635&contSeq=352635&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-02-01 15:37"
+    },
+    {
+      "name": "신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352633&contSeq=352633&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-02-01 11:04"
+    },
+    {
+      "name": "신종 코로나바이러스 국내 발생 현황 안내",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352632&contSeq=352632&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-01 10:20"
+    },
+    {
+      "name": "중앙사고수습본부, 신종 코로나바이러스감염증 확진자의 확인되지 않은 개인정보 확산 사건 수사 의뢰",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352619&contSeq=352619&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-01-31 18:50"
+    },
+    {
+      "name": "신종 코로나바이러스 국내 발생 현황 안내",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352609&contSeq=352609&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-01-31 15:08"
+    },
+    {
+      "name": "[1월 31일, TV조선] 감염병 R&D 예산 보도 관련",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352601&contSeq=352601&board_id=",
+      "manager": "보건의료기술개발과",
+      "date": "2020-01-31 12:20"
+    },
+    {
+      "name": "신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352595&contSeq=352595&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-01-31 11:01"
+    },
+    {
+      "name": "“신종 코로나바이러스(2019-nCoV) 대응 실험실 생물안전 잠정 기준(Interim Guide)”안내",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352590&contSeq=352590&board_id=",
+      "manager": "생물안전평가과",
+      "date": "2020-01-31 10:05"
+    },
+    {
+      "name": "신종 코로나바이러스 국내 발생 현황 안내",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352589&contSeq=352589&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-01-31 10:04"
+    },
+    {
+      "name": "신종 코로나바이러스 추가 환자 2명 확인",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352575&contSeq=352575&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-01-30 17:58"
+    },
+    {
+      "name": "신종 코로나바이러스 국내 발생 현황 안내",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352572&contSeq=352572&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-01-30 17:16"
+    },
+    {
+      "name": "민·관 협력으로 신종 코로나바이러스 진단이 빨라진다",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352571&contSeq=352571&board_id=",
+      "manager": "감염병진단관리과",
+      "date": "2020-01-30 17:13"
+    },
+    {
+      "name": "[1월30일, 조선일보] 1339상담사 추가 모집 관련",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352570&contSeq=352570&board_id=",
+      "manager": "위기소통담당관",
+      "date": "2020-01-30 17:09"
+    },
+    {
+      "name": "[1월 30일, 조선일보] 선별진료소 보도 관련",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352564&contSeq=352564&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-01-30 13:07"
+    },
+    {
+      "name": "신종 코로나바이러스감염증 확산 방지, 범부처가 총력 대응",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352563&contSeq=352563&board_id=",
+      "manager": "질병정책과",
+      "date": "2020-01-30 12:31"
+    },
+    {
+      "name": "제3차 신종 코로나 바이러스 중앙사고수습본부 관계부처 회의",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352549&contSeq=352549&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-01-29 16:39"
+    },
+    {
+      "name": "보건복지부-보건의약단체 신종 코로나바이러스감염증 대응 협의체 구성",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352544&contSeq=352544&board_id=",
+      "manager": "보건의료정책과",
+      "date": "2020-01-29 14:12"
+    },
+    {
+      "name": "1339(질병관리본부 상담센터) 응대 지연 해소에 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352543&contSeq=352543&board_id=",
+      "manager": "기획조정담당관",
+      "date": "2020-01-29 13:41"
+    },
+    {
+      "name": "[1월28일, 중앙일보] 감염 우려자 경보시스템 보도 관련",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352536&contSeq=352536&board_id=",
+      "manager": "약무정책과",
+      "date": "2020-01-28 16:24"
+    },
+    {
+      "name": "지역사회 확산 방지 위해 총력 대응",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352535&contSeq=352535&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-01-28 15:53"
+    },
+    {
+      "name": "신종 코로나바이러스감염증 대비 어린이집 등 대응요령 배포",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352534&contSeq=352534&board_id=",
+      "manager": "보육기반과",
+      "date": "2020-01-28 15:16"
+    },
+    {
+      "name": "중앙사고수습본부, 선별진료소 운영 의료기관 288개소 공개",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352533&contSeq=352533&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-01-28 15:14"
+    },
+    {
+      "name": "보건복지부, 감염병 위기경보 단계“주의→경계”격상",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352517&contSeq=352517&board_id=",
+      "manager": "질병정책과",
+      "date": "2020-01-27 15:19"
+    },
+    {
+      "name": "신종 코로나바이러스 국내 발생 현황",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352516&contSeq=352516&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-01-27 12:02"
+    },
+    {
+      "name": "중국 전역 검역 오염지역으로 지정 신종 코로나바이러스 감염병 사례정의 확대 및 감시 강화",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352513&contSeq=352513&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-01-26 17:45"
+    },
+    {
+      "name": "신종 코로나바이러스 국내 세 번째 환자 확인",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352511&contSeq=352511&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-01-26 13:26"
+    },
+    {
+      "name": "신종 코로나바이러스 감염증 국내 2번째 확진 환자 중간경과 발표",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352507&contSeq=352507&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-01-24 18:29"
+    },
+    {
+      "name": "신종 코로나바이러스 국내 두 번째 환자 확인",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352506&contSeq=352506&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-01-24 16:20"
+    },
+    {
+      "name": "박능후 장관, 신종 코로나바이러스 감염증 대응현장 점검 (1.23)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352496&contSeq=352496&board_id=",
+      "manager": "질병정책과",
+      "date": "2020-01-23 11:30"
+    }
+  ]
+}
