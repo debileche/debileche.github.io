@@ -1358,6 +1358,66 @@
   },
   "news": [
     {
+      "name": "신종 코로나바이러스감염증 대응 총리 주재 회의",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352788&contSeq=352788&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-02-09 18:30"
+    },
+    {
+      "name": "신종코로나바이러스감염증 국내 발생 현황",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352786&contSeq=352786&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-09 17:00"
+    },
+    {
+      "name": "[2월 7일, MBN] 광주21세기병원 검사 보도 관련",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352785&contSeq=352785&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-09 14:18"
+    },
+    {
+      "name": "[2월 8일, 조선일보] 진단키트 보도 관련",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352784&contSeq=352784&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-09 14:13"
+    },
+    {
+      "name": "신종코로나바이러스감염증 국내 발생 현황 (2월 9일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352783&contSeq=352783&board_id=",
+      "manager": "보험급여과",
+      "date": "2020-02-09 13:57"
+    },
+    {
+      "name": "[2월 8일, 파이낸셜뉴스] 항만방역 보도 관련",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352782&contSeq=352782&board_id=",
+      "manager": "국립여수검역소",
+      "date": "2020-02-09 11:01"
+    },
+    {
+      "name": "신종코로나바이러스감염증 국내 발생 현황",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352780&contSeq=352780&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-08 18:10"
+    },
+    {
+      "name": "신종코로나바이러스감염증 국내 발생 현황 (2월 8일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352778&contSeq=352778&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-08 14:00"
+    },
+    {
+      "name": "신종 코로나바이러스감염증 중앙사고수습본부 정례 브리핑",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352777&contSeq=352777&board_id=",
+      "manager": "신종코로나바이러스감염증중앙사고수습본부",
+      "date": "2020-02-08 11:02"
+    },
+    {
+      "name": "신종코로나바이러스감염증 국내 발생 현황",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352776&contSeq=352776&board_id=",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-08 10:21"
+    },
+    {
       "name": "신종코로나바이러스감염증 국내 발생 현황",
       "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352769&contSeq=352769&board_id=",
       "manager": "중앙방역대책본부",
