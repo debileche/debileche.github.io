@@ -48,7 +48,7 @@
     {
       "info": {
         "no": "3번째 확진자",
-        "name": "한국54세남성",
+        "name": "한국53세남성",
         "status": "퇴원(2020-02-12)"
       },
       "paths": [
@@ -144,7 +144,7 @@
     {
       "info": {
         "no": "5번째 확진자",
-        "name": "한국33세남성",
+        "name": "한국32세남성",
         "status": "치료중"
       },
       "paths": [
@@ -208,7 +208,7 @@
       "info": {
         "no": "6번째 확진자",
         "name": "한국55세남성",
-        "status": "퇴원(미정)"
+        "status": "퇴원(2020-02-19)"
       },
       "paths": [
         {
@@ -306,7 +306,7 @@
     {
       "info": {
         "no": "9번째 확진자",
-        "name": "한국28세여성",
+        "name": "한국27세여성",
         "status": "치료중"
       },
       "paths": [
@@ -321,8 +321,8 @@
     {
       "info": {
         "no": "10번째 확진자",
-        "name": "한국54세여성",
-        "status": "퇴원(미정)"
+        "name": "한국53세여성",
+        "status": "퇴원(2020-02-19)"
       },
       "paths": [
         {
@@ -342,7 +342,7 @@
     {
       "info": {
         "no": "11번째 확진자",
-        "name": "한국25세남성",
+        "name": "한국24세남성",
         "status": "퇴원(2020-02-10)"
       },
       "paths": [
@@ -492,7 +492,7 @@
     {
       "info": {
         "no": "13번째 확진자",
-        "name": "한국28세남성",
+        "name": "한국27세남성",
         "status": "치료중"
       },
       "paths": [
@@ -513,7 +513,7 @@
     {
       "info": {
         "no": "14번째 확진자",
-        "name": "중국40세여성",
+        "name": "중국39세여성",
         "status": "퇴원(2020-02-18)"
       },
       "paths": [
@@ -546,7 +546,7 @@
     {
       "info": {
         "no": "15번째 확진자",
-        "name": "한국43세남성",
+        "name": "한국42세남성",
         "status": "치료중"
       },
       "paths": [
@@ -606,7 +606,7 @@
     {
       "info": {
         "no": "17번째 확진자",
-        "name": "한국38세남성",
+        "name": "한국37세남성",
         "status": "퇴원(2020-02-12)"
       },
       "paths": [
@@ -705,7 +705,7 @@
     {
       "info": {
         "no": "18번째 확진자",
-        "name": "한국21세여성",
+        "name": "한국20세여성",
         "status": "퇴원(2020-02-19)"
       },
       "paths": [
@@ -876,7 +876,7 @@
     {
       "info": {
         "no": "23번째 확진자",
-        "name": "중국58세여성",
+        "name": "중국57세여성",
         "status": "치료중"
       },
       "paths": [
@@ -915,7 +915,7 @@
     {
       "info": {
         "no": "24번째 확진자",
-        "name": "한국28세남성",
+        "name": "한국27세남성",
         "status": "치료중"
       },
       "paths": [
@@ -1050,7 +1050,7 @@
     {
       "info": {
         "no": "29번째 확진자",
-        "name": "한국82세남성",
+        "name": "한국81세남성",
         "status": "치료중"
       },
       "paths": [
@@ -1233,7 +1233,7 @@
     {
       "info": {
         "no": "30번째 확진자",
-        "name": "한국68세여성",
+        "name": "한국67세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1308,10 +1308,16 @@
     {
       "info": {
         "no": "31번째 확진자",
-        "name": "한국61세여성",
+        "name": "한국60세여성",
         "status": "치료중"
       },
       "paths": [
+        {
+          "x": 37.505066,
+          "y": 127.04728,
+          "desc": "서울 대치동 C클럽 본사에서 열린 행사에 참석",
+          "date": "2020-??-??"
+        },
         {
           "x": 35.875114,
           "y": 128.62758,
@@ -1359,7 +1365,7 @@
     {
       "info": {
         "no": "32번째 확진자",
-        "name": "한국11세여성",
+        "name": "한국10세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1374,7 +1380,7 @@
     {
       "info": {
         "no": "33번째 확진자",
-        "name": "한국40세여성",
+        "name": "한국39세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1389,7 +1395,7 @@
     {
       "info": {
         "no": "34번째 확진자",
-        "name": "한국24세남성",
+        "name": "한국23세남성",
         "status": "치료중"
       },
       "paths": [
@@ -1404,7 +1410,7 @@
     {
       "info": {
         "no": "35번째 확진자",
-        "name": "한국26세여성",
+        "name": "한국25세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1419,7 +1425,7 @@
     {
       "info": {
         "no": "36번째 확진자",
-        "name": "한국48세여성",
+        "name": "한국47세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1434,7 +1440,7 @@
     {
       "info": {
         "no": "37번째 확진자",
-        "name": "한국47세남성",
+        "name": "한국46세남성",
         "status": "치료중"
       },
       "paths": [
@@ -1449,7 +1455,7 @@
     {
       "info": {
         "no": "38번째 확진자",
-        "name": "한국57세여성",
+        "name": "한국56세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1464,14 +1470,14 @@
     {
       "info": {
         "no": "39번째 확진자",
-        "name": "한국61세여성",
+        "name": "한국60세여성",
         "status": "치료중"
       },
       "paths": [
         {
           "x": 35.85825,
           "y": 129.19678,
-          "desc": "",
+          "desc": "동국대경주병원 ",
           "date": "2020-??-??"
         }
       ]
@@ -1479,7 +1485,7 @@
     {
       "info": {
         "no": "40번째 확진자",
-        "name": "한국77세남성",
+        "name": "한국76세남성",
         "status": "치료중"
       },
       "paths": [
@@ -1487,7 +1493,7 @@
           "x": 37.53985,
           "y": 127.05302,
           "desc": "이마트 성수점 방문",
-          "date": "2020-??-??"
+          "date": "2020-02-10"
         },
         {
           "x": 37.557377,
@@ -1524,7 +1530,7 @@
     {
       "info": {
         "no": "41번째 확진자",
-        "name": "한국69세여성",
+        "name": "한국68세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1539,7 +1545,7 @@
     {
       "info": {
         "no": "42번째 확진자",
-        "name": "한국29세여성",
+        "name": "한국28세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1554,7 +1560,7 @@
     {
       "info": {
         "no": "43번째 확진자",
-        "name": "한국58세여성",
+        "name": "한국57세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1569,7 +1575,7 @@
     {
       "info": {
         "no": "44번째 확진자",
-        "name": "한국46세여성",
+        "name": "한국45세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1584,7 +1590,7 @@
     {
       "info": {
         "no": "45번째 확진자",
-        "name": "한국54세여성",
+        "name": "한국53세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1599,7 +1605,7 @@
     {
       "info": {
         "no": "46번째 확진자",
-        "name": "한국28세남성",
+        "name": "한국27세남성",
         "status": "치료중"
       },
       "paths": [
@@ -1614,7 +1620,7 @@
     {
       "info": {
         "no": "47번째 확진자",
-        "name": "한국63세여성",
+        "name": "한국62세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1629,7 +1635,7 @@
     {
       "info": {
         "no": "48번째 확진자",
-        "name": "한국72세여성",
+        "name": "한국71세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1644,7 +1650,7 @@
     {
       "info": {
         "no": "49번째 확진자",
-        "name": "한국58세남성",
+        "name": "한국57세남성",
         "status": "치료중"
       },
       "paths": [
@@ -1659,7 +1665,7 @@
     {
       "info": {
         "no": "50번째 확진자",
-        "name": "한국76세남성",
+        "name": "한국75세남성",
         "status": "치료중"
       },
       "paths": [
@@ -1674,7 +1680,7 @@
     {
       "info": {
         "no": "51번째 확진자",
-        "name": "한국61세여성",
+        "name": "한국60세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1689,7 +1695,7 @@
     {
       "info": {
         "no": "53번째 확진자",
-        "name": "한국38세여성",
+        "name": "한국37세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1704,7 +1710,7 @@
     {
       "info": {
         "no": "54번째 확진자",
-        "name": "한국57세남성",
+        "name": "한국56세남성",
         "status": "치료중"
       },
       "paths": [
@@ -1719,7 +1725,7 @@
     {
       "info": {
         "no": "55번째 확진자",
-        "name": "한국59세남성",
+        "name": "한국58세남성",
         "status": "치료중"
       },
       "paths": [
@@ -1734,7 +1740,7 @@
     {
       "info": {
         "no": "56번째 확진자",
-        "name": "한국75세남성",
+        "name": "한국74세남성",
         "status": "치료중"
       },
       "paths": [
@@ -1749,7 +1755,7 @@
     {
       "info": {
         "no": "65번째 확진자",
-        "name": "한국50세여성",
+        "name": "한국49세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1764,7 +1770,7 @@
     {
       "info": {
         "no": "70번째 확진자",
-        "name": "한국48세여성",
+        "name": "한국47세여성",
         "status": "치료중"
       },
       "paths": [
@@ -1781,8 +1787,8 @@
           "date": "2020-??-??"
         },
         {
-          "x": 36.069427,
-          "y": 129.38148,
+          "x": 36.06882,
+          "y": 129.3813,
           "desc": "리플러스 장성점 마트 도착(22:03)",
           "date": "2020-??-??"
         },
@@ -1827,25 +1833,25 @@
   ],
   "dashboard": {
     "domestic": {
-      "confirmation": 104,
+      "confirmation": 156,
       "discharge": 16,
-      "suspicion": 1860,
+      "suspicion": 2707,
       "dead": 1
     },
     "overseas": [
       {
         "name": "중국",
-        "number": "74576",
-        "dead": "2118"
+        "number": "75465",
+        "dead": "2236"
       },
       {
         "name": "홍콩",
-        "number": "65",
+        "number": "69",
         "dead": "2"
       },
       {
         "name": "대만",
-        "number": "22",
+        "number": "24",
         "dead": "1"
       },
       {
@@ -1860,12 +1866,12 @@
       },
       {
         "name": "싱가포르",
-        "number": "84",
+        "number": "85",
         "dead": "0"
       },
       {
         "name": "일본",
-        "number": "73",
+        "number": "93",
         "dead": "1"
       },
       {
@@ -1907,6 +1913,11 @@
         "name": "필리핀",
         "number": "3",
         "dead": "1"
+      },
+      {
+        "name": "이란",
+        "number": "2",
+        "dead": "2"
       },
       {
         "name": "미국",
@@ -1975,136 +1986,34 @@
       },
       {
         "name": "일본 크루즈",
-        "number": "621",
-        "dead": "0"
+        "number": "634",
+        "dead": "2"
       }
     ],
     "totalinfo": {
-      "confirmation": "75628",
-      "nation": "29",
-      "dead": "2124"
+      "confirmation": "76559",
+      "nation": "30",
+      "dead": "2246"
     }
   },
   "news": [
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일 16시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353018&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353030&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-20 17:16"
+      "date": "2020-02-21 14:10"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353014&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "중앙방역대책본부",
-      "date": "2020-02-20 14:18"
-    },
-    {
-      "name": "[국립중앙의료원] 코로나19 지역확산, 과학적 접근과 대응 필요",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=488&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "국립중앙의료원",
-      "date": "2020-02-20 11:16"
-    },
-    {
-      "name": "코로나바이러스감염증-19 중앙사고수습본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353010&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 대응 총리 주재 회의",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353024&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-02-20 11:04"
+      "date": "2020-02-21 11:34"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353005&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일 09시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353022&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-20 10:05"
-    },
-    {
-      "name": "의료계(병원협회, 중소병원협회)-중앙사고수습본부 코로나바이러스감염증-19 지역사회 확산 방지 논의",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353000&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "중앙사고수습본부",
-      "date": "2020-02-19 22:41"
-    },
-    {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일 2보)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352997&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "중앙방역대책본부",
-      "date": "2020-02-19 16:58"
-    },
-    {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352991&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "중앙방역대책본부",
-      "date": "2020-02-19 14:10"
-    },
-    {
-      "name": "코로나바이러스감염증-19 중앙사고수습본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352989&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-02-19 11:36"
-    },
-    {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일 1보)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352987&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "중앙방역대책본부",
-      "date": "2020-02-19 10:00"
-    },
-    {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일 16시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353018&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "중앙방역대책본부",
-      "date": "2020-02-20 17:16"
-    },
-    {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353014&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "중앙방역대책본부",
-      "date": "2020-02-20 14:18"
-    },
-    {
-      "name": "[국립중앙의료원] 코로나19 지역확산, 과학적 접근과 대응 필요",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=488&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "국립중앙의료원",
-      "date": "2020-02-20 11:16"
-    },
-    {
-      "name": "코로나바이러스감염증-19 중앙사고수습본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353010&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-02-20 11:04"
-    },
-    {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353005&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "중앙방역대책본부",
-      "date": "2020-02-20 10:05"
-    },
-    {
-      "name": "의료계(병원협회, 중소병원협회)-중앙사고수습본부 코로나바이러스감염증-19 지역사회 확산 방지 논의",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353000&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "중앙사고수습본부",
-      "date": "2020-02-19 22:41"
-    },
-    {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일 2보)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352997&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "중앙방역대책본부",
-      "date": "2020-02-19 16:58"
-    },
-    {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352991&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "중앙방역대책본부",
-      "date": "2020-02-19 14:10"
-    },
-    {
-      "name": "코로나바이러스감염증-19 중앙사고수습본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352989&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-02-19 11:36"
-    },
-    {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일 1보)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352987&contSeq=353018&board_id=140&gubun=BDJ",
-      "manager": "중앙방역대책본부",
-      "date": "2020-02-19 10:00"
+      "date": "2020-02-21 10:04"
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일 16시)",
@@ -2149,22 +2058,22 @@
       "date": "2020-02-19 16:58"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352991&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353030&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 14:10"
+      "date": "2020-02-21 14:10"
     },
     {
-      "name": "코로나바이러스감염증-19 중앙사고수습본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352989&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 대응 총리 주재 회의",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353024&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-02-19 11:36"
+      "date": "2020-02-21 11:34"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일 1보)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352987&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일 09시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353022&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 10:00"
+      "date": "2020-02-21 10:04"
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일 16시)",
@@ -2209,22 +2118,22 @@
       "date": "2020-02-19 16:58"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352991&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353030&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 14:10"
+      "date": "2020-02-21 14:10"
     },
     {
-      "name": "코로나바이러스감염증-19 중앙사고수습본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352989&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 대응 총리 주재 회의",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353024&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-02-19 11:36"
+      "date": "2020-02-21 11:34"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일 1보)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352987&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일 09시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353022&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 10:00"
+      "date": "2020-02-21 10:04"
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일 16시)",
@@ -2269,22 +2178,22 @@
       "date": "2020-02-19 16:58"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352991&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353030&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 14:10"
+      "date": "2020-02-21 14:10"
     },
     {
-      "name": "코로나바이러스감염증-19 중앙사고수습본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352989&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 대응 총리 주재 회의",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353024&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-02-19 11:36"
+      "date": "2020-02-21 11:34"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일 1보)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352987&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일 09시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353022&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 10:00"
+      "date": "2020-02-21 10:04"
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일 16시)",
@@ -2329,22 +2238,22 @@
       "date": "2020-02-19 16:58"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352991&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353030&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 14:10"
+      "date": "2020-02-21 14:10"
     },
     {
-      "name": "코로나바이러스감염증-19 중앙사고수습본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352989&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 대응 총리 주재 회의",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353024&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-02-19 11:36"
+      "date": "2020-02-21 11:34"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일 1보)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352987&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일 09시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353022&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 10:00"
+      "date": "2020-02-21 10:04"
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일 16시)",
@@ -2389,22 +2298,22 @@
       "date": "2020-02-19 16:58"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352991&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353030&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 14:10"
+      "date": "2020-02-21 14:10"
     },
     {
-      "name": "코로나바이러스감염증-19 중앙사고수습본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352989&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 대응 총리 주재 회의",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353024&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-02-19 11:36"
+      "date": "2020-02-21 11:34"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일 1보)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352987&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일 09시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353022&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 10:00"
+      "date": "2020-02-21 10:04"
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일 16시)",
@@ -2449,22 +2358,22 @@
       "date": "2020-02-19 16:58"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352991&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353030&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 14:10"
+      "date": "2020-02-21 14:10"
     },
     {
-      "name": "코로나바이러스감염증-19 중앙사고수습본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352989&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 대응 총리 주재 회의",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353024&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-02-19 11:36"
+      "date": "2020-02-21 11:34"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일 1보)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352987&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일 09시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353022&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 10:00"
+      "date": "2020-02-21 10:04"
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일 16시)",
@@ -2509,22 +2418,22 @@
       "date": "2020-02-19 16:58"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352991&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353030&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 14:10"
+      "date": "2020-02-21 14:10"
     },
     {
-      "name": "코로나바이러스감염증-19 중앙사고수습본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352989&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 대응 총리 주재 회의",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353024&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-02-19 11:36"
+      "date": "2020-02-21 11:34"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일 1보)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352987&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일 09시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353022&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 10:00"
+      "date": "2020-02-21 10:04"
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일 16시)",
@@ -2569,22 +2478,22 @@
       "date": "2020-02-19 16:58"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352991&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353030&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 14:10"
+      "date": "2020-02-21 14:10"
     },
     {
-      "name": "코로나바이러스감염증-19 중앙사고수습본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352989&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 대응 총리 주재 회의",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353024&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-02-19 11:36"
+      "date": "2020-02-21 11:34"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일 1보)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352987&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일 09시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353022&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 10:00"
+      "date": "2020-02-21 10:04"
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일 16시)",
@@ -2629,22 +2538,124 @@
       "date": "2020-02-19 16:58"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352991&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353030&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 14:10"
+      "date": "2020-02-21 14:10"
+    },
+    {
+      "name": "코로나바이러스감염증-19 대응 총리 주재 회의",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353024&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-02-21 11:34"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일 09시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353022&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-21 10:04"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일 16시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353018&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-20 17:16"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353014&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-20 14:18"
+    },
+    {
+      "name": "[국립중앙의료원] 코로나19 지역확산, 과학적 접근과 대응 필요",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=488&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "국립중앙의료원",
+      "date": "2020-02-20 11:16"
     },
     {
       "name": "코로나바이러스감염증-19 중앙사고수습본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352989&contSeq=353018&board_id=140&gubun=BDJ",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353010&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-02-19 11:36"
+      "date": "2020-02-20 11:04"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일 1보)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352987&contSeq=353018&board_id=140&gubun=BDJ",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353005&contSeq=353018&board_id=140&gubun=BDJ",
       "manager": "중앙방역대책본부",
-      "date": "2020-02-19 10:00"
+      "date": "2020-02-20 10:05"
+    },
+    {
+      "name": "의료계(병원협회, 중소병원협회)-중앙사고수습본부 코로나바이러스감염증-19 지역사회 확산 방지 논의",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353000&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "중앙사고수습본부",
+      "date": "2020-02-19 22:41"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일 2보)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352997&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-19 16:58"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353030&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-21 14:10"
+    },
+    {
+      "name": "코로나바이러스감염증-19 대응 총리 주재 회의",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353024&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-02-21 11:34"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 21일 09시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353022&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-21 10:04"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일 16시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353018&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-20 17:16"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353014&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-20 14:18"
+    },
+    {
+      "name": "[국립중앙의료원] 코로나19 지역확산, 과학적 접근과 대응 필요",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=488&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "국립중앙의료원",
+      "date": "2020-02-20 11:16"
+    },
+    {
+      "name": "코로나바이러스감염증-19 중앙사고수습본부 정례브리핑",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353010&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-02-20 11:04"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 20일)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353005&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-20 10:05"
+    },
+    {
+      "name": "의료계(병원협회, 중소병원협회)-중앙사고수습본부 코로나바이러스감염증-19 지역사회 확산 방지 논의",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353000&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "중앙사고수습본부",
+      "date": "2020-02-19 22:41"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (2월 19일 2보)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=352997&contSeq=353018&board_id=140&gubun=BDJ",
+      "manager": "중앙방역대책본부",
+      "date": "2020-02-19 16:58"
     }
   ]
 }
