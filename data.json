@@ -1824,7 +1824,158 @@
       "suspicion": 6037,
       "dead": 2
     },
-    "overseas": [],
+    "overseas": [
+      {
+        "name": "중국",
+        "number": "75465",
+        "dead": "2236"
+      },
+      {
+        "name": "홍콩",
+        "number": "69",
+        "dead": "2"
+      },
+      {
+        "name": "대만",
+        "number": "24",
+        "dead": "1"
+      },
+      {
+        "name": "마카오",
+        "number": "10",
+        "dead": "0"
+      },
+      {
+        "name": "태국",
+        "number": "35",
+        "dead": "0"
+      },
+      {
+        "name": "싱가포르",
+        "number": "85",
+        "dead": "0"
+      },
+      {
+        "name": "일본",
+        "number": "93",
+        "dead": "1"
+      },
+      {
+        "name": "베트남",
+        "number": "16",
+        "dead": "0"
+      },
+      {
+        "name": "네팔",
+        "number": "1",
+        "dead": "0"
+      },
+      {
+        "name": "말레이시아",
+        "number": "22",
+        "dead": "0"
+      },
+      {
+        "name": "캄보디아",
+        "number": "1",
+        "dead": "0"
+      },
+      {
+        "name": "스리랑카",
+        "number": "1",
+        "dead": "0"
+      },
+      {
+        "name": "아랍에미리트",
+        "number": "9",
+        "dead": "0"
+      },
+      {
+        "name": "인도",
+        "number": "3",
+        "dead": "0"
+      },
+      {
+        "name": "필리핀",
+        "number": "3",
+        "dead": "1"
+      },
+      {
+        "name": "이란",
+        "number": "2",
+        "dead": "2"
+      },
+      {
+        "name": "미국",
+        "number": "15",
+        "dead": "0"
+      },
+      {
+        "name": "캐나다",
+        "number": "8",
+        "dead": "0"
+      },
+      {
+        "name": "프랑스",
+        "number": "12",
+        "dead": "1"
+      },
+      {
+        "name": "독일",
+        "number": "16",
+        "dead": "0"
+      },
+      {
+        "name": "핀란드",
+        "number": "1",
+        "dead": "0"
+      },
+      {
+        "name": "이탈리아",
+        "number": "3",
+        "dead": "0"
+      },
+      {
+        "name": "영국",
+        "number": "9",
+        "dead": "0"
+      },
+      {
+        "name": "러시아",
+        "number": "2",
+        "dead": "0"
+      },
+      {
+        "name": "스웨덴",
+        "number": "1",
+        "dead": "0"
+      },
+      {
+        "name": "스페인",
+        "number": "2",
+        "dead": "0"
+      },
+      {
+        "name": "벨기에",
+        "number": "1",
+        "dead": "0"
+      },
+      {
+        "name": "호주",
+        "number": "15",
+        "dead": "0"
+      },
+      {
+        "name": "이집트",
+        "number": "1",
+        "dead": "0"
+      },
+      {
+        "name": "일본 크루즈",
+        "number": "634",
+        "dead": "2"
+      }
+    ],
     "totalinfo": {
       "confirmation": "0",
       "nation": "0",
