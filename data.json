@@ -3840,8 +3840,8 @@
     "domestic": {
       "confirmation": 4212,
       "discharge": 31,
-      "suspicion": 22,
-      "dead": 33799
+      "suspicion": 33799,
+      "dead": 22
     },
     "overseas": [
       {
