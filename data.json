@@ -3838,25 +3838,25 @@
   ],
   "dashboard": {
     "domestic": {
-      "confirmation": 5766,
-      "discharge": 88,
-      "dead": 35,
-      "suspicion": 21810
+      "confirmation": 6767,
+      "discharge": 118,
+      "dead": 44,
+      "suspicion": 19620
     },
     "overseas": [
       {
         "name": "중국",
-        "number": "80409",
-        "dead": "3012"
+        "number": "80651",
+        "dead": "3070"
       },
       {
         "name": "홍콩",
-        "number": "105",
+        "number": "108",
         "dead": "2"
       },
       {
         "name": "대만",
-        "number": "42",
+        "number": "45",
         "dead": "1"
       },
       {
@@ -3866,22 +3866,22 @@
       },
       {
         "name": "일본",
-        "number": "317",
+        "number": "408",
         "dead": "6"
       },
       {
         "name": "싱가포르",
-        "number": "112",
+        "number": "130",
         "dead": "0"
       },
       {
         "name": "태국",
-        "number": "43",
+        "number": "47",
         "dead": "1"
       },
       {
         "name": "말레이시아",
-        "number": "50",
+        "number": "55",
         "dead": "0"
       },
       {
@@ -3891,12 +3891,12 @@
       },
       {
         "name": "인도",
-        "number": "6",
+        "number": "30",
         "dead": "0"
       },
       {
         "name": "필리핀",
-        "number": "3",
+        "number": "5",
         "dead": "1"
       },
       {
@@ -3926,7 +3926,7 @@
       },
       {
         "name": "파키스탄",
-        "number": "5",
+        "number": "6",
         "dead": "0"
       },
       {
@@ -3935,58 +3935,63 @@
         "dead": "0"
       },
       {
+        "name": "부탄",
+        "number": "1",
+        "dead": "0"
+      },
+      {
         "name": "이란",
-        "number": "2922",
-        "dead": "92"
+        "number": "4747",
+        "dead": "124"
       },
       {
         "name": "쿠웨이트",
-        "number": "56",
+        "number": "58",
         "dead": "0"
       },
       {
         "name": "바레인",
-        "number": "52",
+        "number": "56",
         "dead": "0"
       },
       {
         "name": "아랍에미리트",
-        "number": "27",
+        "number": "29",
         "dead": "0"
       },
       {
         "name": "이라크",
-        "number": "32",
-        "dead": "0"
+        "number": "38",
+        "dead": "2"
       },
       {
         "name": "오만",
-        "number": "15",
+        "number": "16",
         "dead": "0"
       },
       {
         "name": "레바논",
-        "number": "13",
+        "number": "16",
         "dead": "0"
       },
       {
         "name": "이스라엘",
-        "number": "15",
+        "number": "19",
         "dead": "0"
       },
       {
         "name": "이집트",
-        "number": "2",
+        "number": "15",
         "dead": "0"
       },
       {
         "name": "알제리",
-        "number": "5",
+        "number": "12",
         "dead": "0"
       },
       {
         "name": "카타르",
-        "number": "8",
+        "number": "11",
         "dead": "0"
       },
       {
@@ -4001,27 +4006,27 @@
       },
       {
         "name": "사우디",
-        "number": "1",
+        "number": "8",
         "dead": "0"
       },
       {
         "name": "모로코",
-        "number": "1",
+        "number": "2",
         "dead": "0"
       },
       {
         "name": "미국",
-        "number": "142",
-        "dead": "11"
+        "number": "213",
+        "dead": "12"
       },
       {
         "name": "캐나다",
-        "number": "30",
+        "number": "45",
         "dead": "0"
       },
       {
         "name": "브라질",
-        "number": "2",
+        "number": "7",
         "dead": "0"
       },
       {
@@ -4031,7 +4036,7 @@
       },
       {
         "name": "에콰도르",
-        "number": "7",
+        "number": "13",
         "dead": "0"
       },
       {
@@ -4051,97 +4056,97 @@
       },
       {
         "name": "이탈리아",
-        "number": "3087",
-        "dead": "107"
+        "number": "4636",
+        "dead": "197"
       },
       {
         "name": "독일",
-        "number": "240",
+        "number": "639",
         "dead": "0"
       },
       {
         "name": "프랑스",
-        "number": "212",
-        "dead": "4"
+        "number": "613",
+        "dead": "6"
       },
       {
         "name": "영국",
-        "number": "89",
+        "number": "167",
         "dead": "0"
       },
       {
         "name": "스페인",
-        "number": "151",
-        "dead": "0"
+        "number": "374",
+        "dead": "3"
       },
       {
         "name": "오스트리아",
-        "number": "27",
+        "number": "47",
         "dead": "0"
       },
       {
         "name": "크로아티아",
-        "number": "9",
+        "number": "11",
         "dead": "0"
       },
       {
         "name": "핀란드",
-        "number": "7",
+        "number": "19",
         "dead": "0"
       },
       {
         "name": "스웨덴",
-        "number": "24",
+        "number": "101",
         "dead": "0"
       },
       {
         "name": "스위스",
-        "number": "37",
+        "number": "180",
         "dead": "0"
       },
       {
         "name": "벨기에",
-        "number": "8",
+        "number": "109",
         "dead": "0"
       },
       {
         "name": "덴마크",
-        "number": "8",
+        "number": "23",
         "dead": "0"
       },
       {
         "name": "에스토니아",
-        "number": "2",
+        "number": "10",
         "dead": "0"
       },
       {
         "name": "조지아",
-        "number": "3",
+        "number": "9",
         "dead": "0"
       },
       {
         "name": "그리스",
-        "number": "7",
+        "number": "32",
         "dead": "0"
       },
       {
         "name": "북마케도니아",
-        "number": "1",
+        "number": "3",
         "dead": "0"
       },
       {
         "name": "노르웨이",
-        "number": "33",
+        "number": "113",
         "dead": "0"
       },
       {
         "name": "루마니아",
-        "number": "4",
+        "number": "7",
         "dead": "0"
       },
       {
         "name": "네덜란드",
-        "number": "28",
+        "number": "128",
         "dead": "0"
       },
       {
@@ -4156,17 +4161,17 @@
       },
       {
         "name": "산마리노",
-        "number": "16",
+        "number": "24",
         "dead": "1"
       },
       {
         "name": "아제르바이잔",
-        "number": "3",
+        "number": "9",
         "dead": "0"
       },
       {
         "name": "아이슬란드",
-        "number": "16",
+        "number": "26",
         "dead": "0"
       },
       {
@@ -4186,17 +4191,17 @@
       },
       {
         "name": "아일랜드",
-        "number": "2",
+        "number": "14",
         "dead": "0"
       },
       {
         "name": "체코",
-        "number": "5",
+        "number": "12",
         "dead": "0"
       },
       {
         "name": "포르투갈",
-        "number": "5",
+        "number": "13",
         "dead": "0"
       },
       {
@@ -4211,7 +4216,7 @@
       },
       {
         "name": "폴란드",
-        "number": "1",
+        "number": "5",
         "dead": "0"
       },
       {
@@ -4220,13 +4225,33 @@
         "dead": "0"
       },
       {
+        "name": "헝가리",
+        "number": "4",
+        "dead": "0"
+      },
+      {
+        "name": "슬로베니아",
+        "number": "9",
+        "dead": "0"
+      },
+      {
+        "name": "리히텐슈타인",
+        "number": "1",
+        "dead": "0"
+      },
+      {
+        "name": "세르비아",
+        "number": "1",
+        "dead": "0"
+      },
+      {
         "name": "호주",
-        "number": "43",
-        "dead": "1"
+        "number": "59",
+        "dead": "3"
       },
       {
         "name": "뉴질랜드",
-        "number": "2",
+        "number": "4",
         "dead": "0"
       },
       {
@@ -4236,6 +4261,16 @@
       },
       {
         "name": "세네갈",
+        "number": "4",
+        "dead": "0"
+      },
+      {
+        "name": "카메룬",
+        "number": "1",
+        "dead": "0"
+      },
+      {
+        "name": "남아프리카공화국",
         "number": "1",
         "dead": "0"
       },
@@ -4243,134 +4278,93 @@
         "name": "일본 크루즈",
         "number": "706",
         "dead": "7"
+      },
+      {
+        "name": "팔레스타인 ",
+        "number": "7",
+        "dead": "0"
+      },
+      {
+        "name": "지브롤터",
+        "number": "1",
+        "dead": "0"
+      },
+      {
+        "name": "세인트마틴",
+        "number": "2",
+        "dead": "0"
+      },
+      {
+        "name": "생바르텔레미",
+        "number": "1",
+        "dead": "0"
+      },
+      {
+        "name": "바티칸",
+        "number": "1",
+        "dead": "0"
       }
     ],
     "totalinfo": {
-      "confirmation": "89258",
-      "nation": "80",
-      "dead": "3246"
+      "confirmation": "94976",
+      "nation": "92",
+      "dead": "3436"
     }
   },
   "news": [
     {
-      "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353384&contSeq=353384&board_id=&gubun=ALL",
-      "manager": "중앙사고수습본부",
-      "date": "2020-03-05 20:03"
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 14:10"
+    },
+    {
+      "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-07 11:45"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 14:17"
+    },
+    {
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
+    },
+    {
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-06 11:22"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
-    },
-    {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
-    },
-    {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
-    },
-    {
-      "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
-    },
-    {
-      "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353384&contSeq=353384&board_id=&gubun=ALL",
-      "manager": "중앙사고수습본부",
-      "date": "2020-03-05 20:03"
-    },
-    {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
-    },
-    {
-      "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
-    },
-    {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
-    },
-    {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
-    },
-    {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
-    },
-    {
-      "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 10:17"
     },
     {
       "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
@@ -4380,57 +4374,57 @@
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "date": "2020-03-07 14:10"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-07 11:45"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
+      "date": "2020-03-06 14:17"
     },
     {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
     },
     {
       "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
@@ -4440,57 +4434,57 @@
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "date": "2020-03-07 14:10"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-07 11:45"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
+      "date": "2020-03-06 14:17"
     },
     {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
     },
     {
       "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
@@ -4500,57 +4494,57 @@
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "date": "2020-03-07 14:10"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-07 11:45"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
+      "date": "2020-03-06 14:17"
     },
     {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
     },
     {
       "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
@@ -4560,57 +4554,57 @@
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "date": "2020-03-07 14:10"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-07 11:45"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
+      "date": "2020-03-06 14:17"
     },
     {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
     },
     {
       "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
@@ -4620,57 +4614,57 @@
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "date": "2020-03-07 14:10"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-07 11:45"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
+      "date": "2020-03-06 14:17"
     },
     {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
     },
     {
       "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
@@ -4680,57 +4674,57 @@
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "date": "2020-03-07 14:10"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-07 11:45"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
+      "date": "2020-03-06 14:17"
     },
     {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
     },
     {
       "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
@@ -4740,57 +4734,57 @@
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "date": "2020-03-07 14:10"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-07 11:45"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
+      "date": "2020-03-06 14:17"
     },
     {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
     },
     {
       "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
@@ -4800,57 +4794,57 @@
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "date": "2020-03-07 14:10"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-07 11:45"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
+      "date": "2020-03-06 14:17"
     },
     {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
     },
     {
       "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
@@ -4860,57 +4854,57 @@
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "date": "2020-03-07 14:10"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-07 11:45"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
+      "date": "2020-03-06 14:17"
     },
     {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
     },
     {
       "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
@@ -4920,57 +4914,57 @@
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "date": "2020-03-07 14:10"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-07 11:45"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
+      "date": "2020-03-06 14:17"
     },
     {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
     },
     {
       "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
@@ -4980,57 +4974,57 @@
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "date": "2020-03-07 14:10"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-07 11:45"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
+      "date": "2020-03-06 14:17"
     },
     {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
     },
     {
       "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
@@ -5040,57 +5034,57 @@
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "date": "2020-03-07 14:10"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-07 11:45"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
+      "date": "2020-03-06 14:17"
     },
     {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
     },
     {
       "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
@@ -5100,57 +5094,57 @@
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "date": "2020-03-07 14:10"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-07 11:45"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
+      "date": "2020-03-06 14:17"
     },
     {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
     },
     {
       "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
@@ -5160,57 +5154,57 @@
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "date": "2020-03-07 14:10"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-07 11:45"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
+      "date": "2020-03-06 14:17"
     },
     {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
     },
     {
       "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
@@ -5220,57 +5214,57 @@
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "date": "2020-03-07 14:10"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-07 11:45"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
+      "date": "2020-03-06 14:17"
     },
     {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
     },
     {
       "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
@@ -5280,57 +5274,183 @@
     },
     {
       "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353378&contSeq=353378&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부",
-      "date": "2020-03-05 14:15"
+      "date": "2020-03-07 14:10"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353376&contSeq=353376&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-05 11:46"
+      "date": "2020-03-07 11:45"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 5일 0시)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353374&contSeq=353374&board_id=&gubun=ALL",
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
       "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-05 10:42"
+      "date": "2020-03-06 14:17"
     },
     {
-      "name": "2020년도 신임 공중보건의사 742명, 코로나19 현장 배치 대비 직무교육 실시",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353363&contSeq=353363&board_id=&gubun=ALL",
-      "manager": "건강정책과",
-      "date": "2020-03-04 16:05"
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
     },
     {
-      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 4일 정례브리핑)",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353360&contSeq=353360&board_id=&gubun=ALL",
-      "manager": "중앙방역대책본부 총괄팀",
-      "date": "2020-03-04 14:30"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 경북대구3 생활치료센터(문경 서울대학교병원 인재원) 개소식 참석",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353352&contSeq=353352&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 환자관리팀",
-      "date": "2020-03-04 11:37"
-    },
-    {
-      "name": "박능후 중앙재난안전대책본부 1차장, 국군대구병원 감염병 전담병원 격려 방문",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353350&contSeq=353350&board_id=&gubun=ALL",
-      "manager": "코로나바이러스감염증-19중앙사고수습본부 병상관리팀",
-      "date": "2020-03-04 11:18"
-    },
-    {
-      "name": "254개 「국민안심병원」지정",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353349&contSeq=353349&board_id=&gubun=ALL",
-      "manager": "국민안심병원팀",
-      "date": "2020-03-04 11:00"
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
     },
     {
       "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
-      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353347&contSeq=353347&board_id=&gubun=ALL",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
       "manager": "코로나바이러스감염증-19중앙사고수습본부",
-      "date": "2020-03-04 10:48"
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
+    },
+    {
+      "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353384&contSeq=353384&board_id=&gubun=ALL",
+      "manager": "중앙사고수습본부",
+      "date": "2020-03-05 20:03"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 14:10"
+    },
+    {
+      "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-07 11:45"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 14:17"
+    },
+    {
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
+    },
+    {
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
+    },
+    {
+      "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
+    },
+    {
+      "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353384&contSeq=353384&board_id=&gubun=ALL",
+      "manager": "중앙사고수습본부",
+      "date": "2020-03-05 20:03"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353423&contSeq=353423&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 14:10"
+    },
+    {
+      "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353421&contSeq=353421&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-07 11:45"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 7일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353420&contSeq=353420&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부",
+      "date": "2020-03-07 10:26"
+    },
+    {
+      "name": "한→미국 간 원활한 항공교류 위한 방역망 총력",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353411&contSeq=353411&board_id=&gubun=ALL",
+      "manager": "검역지원과",
+      "date": "2020-03-06 16:56"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (정례브리핑)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353407&contSeq=353407&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 14:17"
+    },
+    {
+      "name": "보건복지부-대한병원협회 생활치료센터 의료서비스 지원을 위한 업무협약 체결",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353401&contSeq=353401&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 12:00"
+    },
+    {
+      "name": "290개 「국민안심병원」지정",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353399&contSeq=353399&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부 국민안심병원팀",
+      "date": "2020-03-06 11:30"
+    },
+    {
+      "name": "코로나바이러스감염증-19 중앙재난안전대책본부 정례브리핑",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353397&contSeq=353397&board_id=&gubun=ALL",
+      "manager": "코로나바이러스감염증-19중앙사고수습본부",
+      "date": "2020-03-06 11:22"
+    },
+    {
+      "name": "코로나바이러스감염증-19 국내 발생 현황 (3월 6일 0시)",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353394&contSeq=353394&board_id=&gubun=ALL",
+      "manager": "중앙방역대책본부 총괄팀",
+      "date": "2020-03-06 10:17"
+    },
+    {
+      "name": "의료기관 마스크 수급 안정화를 위해 공급 방식 일원화한다",
+      "url": "http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353384&contSeq=353384&board_id=&gubun=ALL",
+      "manager": "중앙사고수습본부",
+      "date": "2020-03-05 20:03"
     }
   ]
 }
